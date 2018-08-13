@@ -1,4 +1,5 @@
 # Machine Learning on Google Cloud Platform
+### adopted by **Gaurav Vijaywargia** from Google Cloud Platform GitHub repo.
 
 Guides to bringing your code from various Machine Learning frameworks
 to Google Cloud Platform.
